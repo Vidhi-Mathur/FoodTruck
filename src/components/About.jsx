@@ -1,4 +1,4 @@
-import AboutImg from "../assets/AboutImg.png"
+import AboutImg from "../assets/aboutImg.png"
 
 export const About = () => {
     return (
